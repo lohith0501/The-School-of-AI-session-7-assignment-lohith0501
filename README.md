@@ -12,7 +12,7 @@
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/lohith0501/The-School-of-AI-session-7-assignment-lohith0501/Session_7-workflow)  &nbsp;  &nbsp; 
 ![GitHub last commit](https://img.shields.io/github/last-commit/lohith0501/The-School-of-AI-session-7-assignment-lohith0501)  &nbsp;  &nbsp; 
 ![GitHub Repo stars](https://img.shields.io/github/stars/lohith0501/The-School-of-AI-session-7-assignment-lohith0501?style=social)  &nbsp;  &nbsp; 
-![Maintaner](https://img.shields.io/badge/maintainer-Lohith-blue)  
+
 
 
 ## Summary of assignment 
