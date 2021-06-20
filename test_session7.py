@@ -1,5 +1,5 @@
 import os,inspect,re,random
-import session8 as s8
+import session7 as s8
 import pytest
 
 README_CONTENT_CHECK_FOR = [
