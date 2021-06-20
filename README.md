@@ -6,7 +6,7 @@
 
 ***
 
- &nbsp;  &nbsp; ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)  &nbsp;  &nbsp; 
+ &nbsp; &nbsp;  &nbsp; ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)  &nbsp;  &nbsp; 
  ![GitHub repo size](https://img.shields.io/github/repo-size/lohith0501/The-School-of-AI-session-7-assignment-lohith0501)  &nbsp;  &nbsp; 
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)  &nbsp;  &nbsp; 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/lohith0501/The-School-of-AI-session-7-assignment-lohith0501/Session_7-workflow)  &nbsp;  &nbsp; 
