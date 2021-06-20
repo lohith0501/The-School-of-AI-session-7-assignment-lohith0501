@@ -6,6 +6,7 @@
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg) 
 ![GitHub last commit](https://img.shields.io/github/last-commit/lohith0501/The-School-of-AI-session-7-assignment-lohith0501)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/lohith0501/The-School-of-AI-session-7-assignment-lohith0501/Session_7-workflow)
 
 
 - This is a markdown test which will be used for assignment submission
