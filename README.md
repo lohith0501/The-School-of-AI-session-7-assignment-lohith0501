@@ -1,10 +1,16 @@
 <p align="center"><img width=20.5% src="https://avatars.githubusercontent.com/u/67179924?s=280&v=4"></p>
 
-***
+<p align="center">
+  An effort to create a state of art institution for AI study and research..
+  <br>
+  <a href="https://theschoolof.ai/#intro"><strong>Explore TSAI courses »</strong></a>
+ </p>
+
+##
 <h1 align="center">Assignment 7 on closures</h1>
 <h4 align="center">Submission by Lohith G N (EPAI batch 3) </h4>
 
-***
+## Status
 
  &nbsp; &nbsp;  &nbsp; ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)  &nbsp;  &nbsp; 
  ![GitHub repo size](https://img.shields.io/github/repo-size/lohith0501/The-School-of-AI-session-7-assignment-lohith0501)  &nbsp;  &nbsp; 
@@ -13,16 +19,21 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/lohith0501/The-School-of-AI-session-7-assignment-lohith0501)  &nbsp;  &nbsp; 
 ![GitHub Repo stars](https://img.shields.io/github/stars/lohith0501/The-School-of-AI-session-7-assignment-lohith0501?style=social)  &nbsp;  &nbsp; 
 
+## Table of contents
+
+- [Summary of assignment](#summary-of-assignment)
+- [Functions](#functions)
+- [Test cases](#test-cases)
 
 
-## Summary of assignment 
+## Summary of assignment
 - Write a closure that takes a function and then check whether the function passed has a docstring with more than 50 characters. 50 is stored as a free variable (+ 4 tests) - 200
 - Write a closure that gives you the next Fibonacci number (+ 2 tests) - 100
 - We wrote a closure that counts how many times a function was called. Write a new one that can keep a track of how many times add/mul/div functions were called, and update a global dictionary variable with the counts (+ 6 tests) - 250
 - Modify above such that now we can pass in different dictionary variables to update different dictionaries (+ 6 tests) - 250
 Once done, upload the code to github, run actions, and then proceed to answer S7 - Assignment Solutions. 
 
-## Functions in session 7 main module
+## Functions
 
 There are five main functions in main module as explained below
 
@@ -57,9 +68,7 @@ There are eighteen test cases in test module and important ones are explained be
 |test_myfibonacci | Checks if fibonacci module is working as expected. |
 | test_mycounter_with_global_dict | Checks if counter is working as expected when dictionary is passed. |
 
-***
+## Thank you
 
-<h1 align="center">Thank you</h1>
 
-***
 
