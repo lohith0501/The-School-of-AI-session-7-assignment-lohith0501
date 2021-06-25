@@ -10,7 +10,7 @@
 <h1 align="center">Assignment 7 on closures</h1>
 <h4 align="center">Submission by Lohith G N (EPAI batch 3) </h4>
 
-## Status
+## Status 
 
  &nbsp; &nbsp;  &nbsp; ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)  &nbsp;  &nbsp; 
  ![GitHub repo size](https://img.shields.io/github/repo-size/lohith0501/The-School-of-AI-session-7-assignment-lohith0501)  &nbsp;  &nbsp; 
